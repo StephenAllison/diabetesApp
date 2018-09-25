@@ -1,0 +1,62 @@
+
+element.style {
+}
+body {
+    background-color: #fff;
+    color: #243238;
+    font-family: "PT Sans",sans-serif;
+    font-size: 13px;
+    line-height: 16px;
+    margin: 0;
+    min-width: 320px;
+    overflow: hidden;
+    width: 100%;
+}
+body, html {
+    height: 100%;
+}
+body {
+    font-family: 'PT Sans', sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #243238;
+    background-color: #f1f1f1;
+}
+body {
+    margin: 0;
+}
+body {
+    background-color: #fff;
+    color: #243238;
+    font-size: 13px;
+    line-height: 16px;
+    margin: 0;
+    min-width: 320px;
+    overflow: hidden;
+    width: 100%;
+}
+body, html {
+    height: 100%;
+}
+* {
+    margin: 0;
+    padding: 0;
+}
+*, a:focus {
+    outline: medium none !important;
+}
+*, *:before, *:after {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+* {
+    outline: medium none!important;
+    margin: 0;
+    padding: 0;
+}
+user agent stylesheet
+body {
+    display: block;
+    margin: 8px;
+}
